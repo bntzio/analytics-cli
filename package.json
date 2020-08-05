@@ -1,0 +1,11 @@
+{
+  "name": "feedback-cli",
+  "version": "0.0.0",
+  "main": "start.js",
+  "repository": "git@github.com:bntzio/feedback-cli.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node start.js"
+  }
+}
